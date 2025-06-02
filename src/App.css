@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+.blurred {
+  filter: blur(5px);
+  pointer-events: none;
+  user-select: none;
+  transition: filter 0.5s ease-in-out;
+}
