@@ -24,9 +24,9 @@ const IntroOverlay = ({ onPlay }) => {
             <li>
               🧭 <strong>Visualize:</strong> Click "Visualize Dijkstra" to begin
             </li>
-            <li>
+            {/* <li>
               🔄 <strong>Reset:</strong> Click "Clear Grid" to try again
-            </li>
+            </li> */}
           </ul>
         </div>
 
