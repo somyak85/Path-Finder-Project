@@ -1,0 +1,13 @@
+.grid {
+    margin: 20px;
+  }
+
+  #VisualizeButton{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 8px;
+    padding: 5px 20px;
+  }
